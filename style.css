@@ -17,6 +17,8 @@ body {
 }
 
 .header__more {
+  position: relative;
+  top: -3px;
   font-family: fantasy, cursive;
 }
 
