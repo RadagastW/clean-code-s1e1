@@ -1,3 +1,13 @@
+/* Warning */
+.warning {
+  max-width: 720px;
+  margin: 10px auto;
+  font-size: 20px;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+
 /* Basic Style */
 body {
     background-color: #f8f8f8;
